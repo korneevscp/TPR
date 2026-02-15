@@ -29,10 +29,10 @@ var l_bgImageMapBased = false;
 
 // Liste de vos images de fond
 var l_bgImages = [
-	"1.png",
-	"2.png",
-	"3.png",
-	"4.png"
+	"1.jpg",
+	"2.jpg",
+	"3.jpg",
+	"4.jpg"
 ];
 
 // Ordre aléatoire des images
