@@ -76,7 +76,7 @@ var l_bgImages = [
 	"1.png",
 	"2.png",
 	"3.png",
-	"4.png"
+	"4.png",
 ];
 
 // (Arrière-plan image uniquement)
